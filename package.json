@@ -12,7 +12,8 @@
     "lint": "eslint . --fix"
   },
   "dependencies": {
-    "vue": "^3.5.12"
+    "vue": "^3.5.12",
+    "vue-tg": "^0.8.0"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.0",
