@@ -14,7 +14,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
   <main>
     <TheWelcome />
-  </main>q
+  </main>
 </template>
 
 <style scoped>
