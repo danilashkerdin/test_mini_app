@@ -37,3 +37,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### For testing 
+```sh
+ssh -R 80:localhost:5173 localhost.run
+```
+After executing this command copy URL-link from terminal and paste in your tg mini app in bot father interface
